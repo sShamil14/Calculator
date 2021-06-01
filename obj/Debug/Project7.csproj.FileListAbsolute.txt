@@ -1,0 +1,10 @@
+C:\Users\shsyt\source\repos\Project7\bin\Debug\Project7.exe.config
+C:\Users\shsyt\source\repos\Project7\bin\Debug\Project7.exe
+C:\Users\shsyt\source\repos\Project7\bin\Debug\Project7.pdb
+C:\Users\shsyt\source\repos\Project7\obj\Debug\Project7.Form1.resources
+C:\Users\shsyt\source\repos\Project7\obj\Debug\Project7.Properties.Resources.resources
+C:\Users\shsyt\source\repos\Project7\obj\Debug\Project7.csproj.GenerateResource.cache
+C:\Users\shsyt\source\repos\Project7\obj\Debug\Project7.exe
+C:\Users\shsyt\source\repos\Project7\obj\Debug\Project7.pdb
+C:\Users\shsyt\source\repos\Project7\obj\Debug\Project7.csproj.AssemblyReference.cache
+C:\Users\shsyt\source\repos\Project7\obj\Debug\Project7.csproj.CoreCompileInputs.cache
